@@ -6,14 +6,14 @@
 - Mobile-friendly layout with smooth navigation and accessible user experience
 - Optimized design using reusable components and a consistent visual theme
 
-## Tech
-- Semantic HTML5
-- CSS3 (Flexbox & Grid)
-- CSS Custom Properties (Variables)
-- Responsive Web Design
-- using React
-- Google Fonts (Sora, Poppins, Inter)
-- Mobile-First Development
+<h1>Tech</h1>
+<li>Semantic HTML5</li>
+<li> CSS3 (Flexbox & Grid)</li>
+<li> CSS Custom Properties (Variables)</li>
+<li> Responsive Web Design</li>
+<li> using React</li>
+<li> Google Fonts (Sora, Poppins, Inter)</li>
+<li> Mobile-First Development</li>
 
-## Run it locally
+<h1>Run it locally</h1>
 Simply download or clone the project and open index.html in your browser. No installation, build tools, or dependencies required.
