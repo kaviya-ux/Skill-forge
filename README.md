@@ -4,7 +4,7 @@
 - Interactive learning roadmap with clear progression from beginner to advanced
 - Success highlights featuring achievements, certifications, and career growth
 - Mobile-friendly layout with smooth navigation and accessible user experience
-- Optimized design using reusable components and a consistent visual theme
+- Optimized design using reusable components and a consistent visual theme in this
 
 <h1>Tech</h1>
 <li>HTML</li>
