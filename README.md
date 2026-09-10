@@ -7,10 +7,10 @@
 - Optimized design using reusable components and a consistent visual theme in this
 
 <h1>Tech</h1>
-<li>HTML</li>
-<li> CSS</li>
-<li> Responsive Web Design</li>
-<li> using React</li>
+* HTML
+* CSS
+* Responsive Web Design
+* using React
 
 <h1>Run it locally</h1>
 Simply download or clone the project and open index.html in your browser. No installation, build tools, or dependencies required.
